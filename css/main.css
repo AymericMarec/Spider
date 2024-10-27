@@ -1,0 +1,25 @@
+html,body {
+    background-color: black;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+}
+
+
+.point{
+    height: 5px;
+    width: 5px;
+    background-color: white;
+    position: absolute;
+    border-radius: 35%;
+    /* box-shadow: 0px 0px 40px 10px #fff;
+    filter: blur(1px); */
+}
+
+.spider{
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    position: absolute;
+    border-radius: 50%;
+}
